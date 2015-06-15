@@ -1,14 +1,34 @@
 <?php
 /**
- * Plugin Name: WooCommerce - Display Products by Tags
- * Plugin URI: http://www.sebs-studio.com
- * Description: Display WooCommerce products by tags using a shortcode. e.g. [product_tag tags="shoes,socks"]
- * Version: 1.0.0
- * Author: Sebastien Dumont
- * Author URI: http://www.sebastiendumont.com
- * Requires at least: 4.2
- * Tested up to: 4.2.2
+ * Plugin Name:       WooCommerce Display Products by Tags
+ * Plugin URI:        https://wordpress.org/plugins/woocommerce-display-products-by-tags/
+ * Description:       Display WooCommerce products by tags using a shortcode.
+ * Version:           1.0.0
+ * Author:            Sebs Studio
+ * Author URI:        http://www.sebs-studio.com
+ * Developer:         Sébastien Dumont
+ * Developer URI:     http://www.sebastiendumont.com
+ * License:           GPL-2.0+
+ * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+ * GitHub Plugin URI: https://github.com/Sebs-Studio/WooCommerce-Display-Products-by-Tags
+ *
+ * WooCommerce Display Products by Tags is distributed under the terms of the
+ * GNU General Public License as published by the Free Software Foundation,
+ * either version 2 of the License, or any later version.
+ *
+ * WooCommerce Display Products by Tags is distributed in the hope that it
+ * will be useful but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+ * See the GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with WooCommerce Display Products by Tags.
+ * If not, see <http://www.gnu.org/licenses/gpl-2.0.txt>
+ *
+ * Copyright: (c) 2015 Sebs Studio. (sebastien@sebs-studio.com)
  */
+
+if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
 /*
  * Display WooCommerce Products by tags
