@@ -1,6 +1,6 @@
 WooCommerce Display Products by Tags
 
-Copyright 2015 by Sebs Studio
+Copyright 2017 by Sébastien Dumont
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
