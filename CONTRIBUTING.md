@@ -12,7 +12,7 @@ GitHub is for *bug reports and contributions only* - if you have a support quest
 
 * Make sure you have a [GitHub account](https://github.com/signup/free)
 * Submit a ticket for your issue, assuming one does not already exist.
-  * https://github.com/Sebs-Studio/WooCommerce-Display-Products-by-Tags/issues
+  * https://github.com/seb86/WooCommerce-Display-Products-by-Tags/issues
   * Clearly describe the issue including steps to reproduce when it is a bug.
   * Make sure you fill in the earliest version that you know that has the issue.
 
